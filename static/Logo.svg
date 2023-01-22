@@ -9,6 +9,9 @@
    id="svg135"
    sodipodi:docname="Logo.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="Logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +28,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="2.9540685"
-     inkscape:cx="175.85916"
+     inkscape:cx="183.30652"
      inkscape:cy="74.812078"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -41,13 +44,68 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#f10000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
-       x="168.58105"
-       y="59.917366"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.082px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#f10000;stroke-width:0.337962;stroke-dasharray:none;stroke-opacity:1"
+       x="33.965225"
+       y="54.146408"
        id="text237"><tspan
          sodipodi:role="line"
          id="tspan235"
+         x="33.965225"
+         y="54.146408"
+         style="stroke-width:0.337962">🐙</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.082px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#f10000;stroke-width:0.337962;stroke-dasharray:none;stroke-opacity:1"
+       x="101.86044"
+       y="54.146408"
+       id="text237-5"><tspan
+         sodipodi:role="line"
+         id="tspan235-6"
+         x="101.86044"
+         y="54.146408"
+         style="stroke-width:0.337962">🐙</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.082px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#f10000;stroke-width:0.337962;stroke-dasharray:none;stroke-opacity:1"
+       x="169.75565"
+       y="54.146408"
+       id="text237-0"><tspan
+         sodipodi:role="line"
+         id="tspan235-1"
+         x="169.75565"
+         y="54.146408"
+         style="stroke-width:0.337962">🐙</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.082px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#f10000;stroke-width:0.337962;stroke-dasharray:none;stroke-opacity:1"
+       x="237.65085"
+       y="54.146408"
+       id="text237-2"><tspan
+         sodipodi:role="line"
+         id="tspan235-3"
+         x="237.65085"
+         y="54.146408"
+         style="stroke-width:0.337962">🐙</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.082px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#f10000;stroke-width:0.337962;stroke-dasharray:none;stroke-opacity:1"
+       x="305.54608"
+       y="54.146408"
+       id="text237-09"><tspan
+         sodipodi:role="line"
+         id="tspan235-30"
+         x="305.54608"
+         y="54.146408"
+         style="stroke-width:0.337962">🐙</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#f10000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="168.58105"
+       y="84.290535"
+       id="text2619"><tspan
+         sodipodi:role="line"
+         id="tspan2617"
          x="168.58105"
-         y="59.917366">🐙🐙🐙🐙🐙🐙</tspan></text>
+         y="84.290535">tako tako tako tako tako</tspan></text>
   </g>
 </svg>
