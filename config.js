@@ -1,7 +1,7 @@
 
 const isProd = process.env.NODE_ENV === 'production';
 
-const projectName = 'learning-terraform';
+const projectName = 'tutorial-site-template';
 const basePath = isProd ? `/${projectName}` : '';
 
 const siteUrl = `https://osawa-koki.github.io/${projectName}`;
