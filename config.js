@@ -15,7 +15,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: `${basePath}/Logo.svg`,
+    logo: `${basePath}/Logo.png`,
     logoLink: siteUrl,
     title: `<a href='${siteUrl}'>🐙🐙🐙</a>`,
     githubUrl,
@@ -50,7 +50,7 @@ const config = {
     description: "🐙 Let's learn Terraform!",
     ogImage: null,
     docsLocation: `${githubUrl}`,
-    favicon: `${basePath}/Logo.svg`,
+    favicon: `${basePath}/Logo.png`,
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
