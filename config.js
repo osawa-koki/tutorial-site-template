@@ -1,19 +1,21 @@
 
+const isProd = process.env.NODE_ENV === 'production';
+
 const projectName = 'learning-terraform';
-const basePath = `/${projectName}`;
+const basePath = isProd ? `/${projectName}` : '';
 
 const siteUrl = `https://osawa-koki.github.io/${projectName}`;
 const githubUrl = `https://github.com/osawa-koki/${projectName}`
 
 const config = {
   gatsby: {
-    pathPrefix: `/${projectName}`,
+    pathPrefix: basePath,
     siteUrl,
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
-    logo: `${basePath}/Logo.svg`,
+    logo: `${basePath}/Logo.png`,
     logoLink: siteUrl,
     title: `<a href='${siteUrl}'>🐙🐙🐙</a>`,
     githubUrl,
@@ -37,18 +39,18 @@ const config = {
     collapsedNav: [
       '/codeblock',
     ],
-    links: [{ text: 'Terraform', link: 'https://www.terraform.io/' }],
+    links: [{ text: 'osawa-koki', link: 'https://github.com/osawa-koki' }],
     frontLine: false,
     ignoreIndex: true,
     title:
-      "<a href='https://www.terraform.io/'>Terraform </a><div class='greenCircle'></div><a href='https://developer.hashicorp.com/terraform/docs'>docs</a>",
+      "<a href='https://github.com/osawa-koki'>Terraform </a><div class='greenCircle'></div><a href='https://github.com/osawa-koki?tab=repositories'>repos</a>",
   },
   siteMetadata: {
-    title: 'Learning Terraform | osawa-koki',
-    description: "🐙 Let's learn Terraform!",
+    title: 'Tutorial Template | osawa-koki',
+    description: "🐙 Hello World!",
     ogImage: null,
     docsLocation: `${githubUrl}`,
-    favicon: `${basePath}/Logo.svg`,
+    favicon: `${basePath}/Logo.png`,
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
