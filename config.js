@@ -43,11 +43,11 @@ const config = {
     frontLine: false,
     ignoreIndex: true,
     title:
-      "<a href='https://www.terraform.io/'>Terraform </a><div class='greenCircle'></div><a href='https://developer.hashicorp.com/terraform/docs'>docs</a>",
+      "<a href='https://github.com/osawa-koki'>Terraform </a><div class='greenCircle'></div><a href='https://github.com/osawa-koki?tab=repositories'>repos</a>",
   },
   siteMetadata: {
-    title: 'Learning Terraform | osawa-koki',
-    description: "🐙 Let's learn Terraform!",
+    title: 'Tutorial Template | osawa-koki',
+    description: "🐙 Hello World!",
     ogImage: null,
     docsLocation: `${githubUrl}`,
     favicon: `${basePath}/Logo.png`,
