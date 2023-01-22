@@ -39,7 +39,7 @@ const config = {
     collapsedNav: [
       '/codeblock',
     ],
-    links: [{ text: 'Terraform', link: 'https://www.terraform.io/' }],
+    links: [{ text: 'osawa-koki', link: 'https://github.com/osawa-koki' }],
     frontLine: false,
     ignoreIndex: true,
     title:
