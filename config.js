@@ -50,7 +50,7 @@ const config = {
     description: "🐙 Hello World!",
     ogImage: null,
     docsLocation: `${githubUrl}`,
-    favicon: `${basePath}/Logo.png`,
+    favicon: `${basePath}/favicon.ico`,
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
