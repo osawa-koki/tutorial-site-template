@@ -43,7 +43,7 @@ const config = {
     frontLine: false,
     ignoreIndex: true,
     title:
-      "<a href='https://github.com/osawa-koki'>Terraform </a><div class='greenCircle'></div><a href='https://github.com/osawa-koki?tab=repositories'>repos</a>",
+      "<a href='https://github.com/osawa-koki'>Tutorial</a><div class='greenCircle'></div><a href='https://github.com/osawa-koki?tab=repositories'>repos</a>",
   },
   siteMetadata: {
     title: 'Tutorial Template | osawa-koki',
