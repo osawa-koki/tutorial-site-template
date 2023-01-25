@@ -23,7 +23,7 @@ const config = {
     helpUrl: '',
     tweetText: '',
     social: ``,
-    links: [{ text: '', link: '' }],
+    links: [{ text: 'osawa-koki', link: myGithubUrl }],
     search: {
       enabled: false,
       indexName: '',
