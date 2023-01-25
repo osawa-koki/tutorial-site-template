@@ -4,8 +4,9 @@ const isProd = process.env.NODE_ENV === 'production';
 const projectName = 'tutorial-site-template';
 const basePath = isProd ? `/${projectName}` : '';
 
+const myGithubUrl = 'https://github.com/osawa-koki';
 const siteUrl = `https://osawa-koki.github.io/${projectName}`;
-const githubUrl = `https://github.com/osawa-koki/${projectName}`
+const githubUrl = `${myGithubUrl}/${projectName}`;
 
 const config = {
   gatsby: {
@@ -39,11 +40,10 @@ const config = {
     collapsedNav: [
       '/codeblock',
     ],
-    links: [{ text: 'osawa-koki', link: 'https://github.com/osawa-koki' }],
+    links: [{ text: 'osawa-koki', link: myGithubUrl }],
     frontLine: false,
     ignoreIndex: true,
-    title:
-      "<a href='https://github.com/osawa-koki'>Terraform </a><div class='greenCircle'></div><a href='https://github.com/osawa-koki?tab=repositories'>repos</a>",
+    title: `<a href='${myGithubUrl}'>Terraform </a><div class='greenCircle'></div><a href='${myGithubUrl}?tab=repositories'>repos</a>`,
   },
   siteMetadata: {
     title: 'Tutorial Template | osawa-koki',
